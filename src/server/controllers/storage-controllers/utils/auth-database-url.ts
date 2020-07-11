@@ -1,0 +1,1 @@
+export const connectionString = 'mongodb://abcd:abcdef1@ds033744.mlab.com:33744/alterdevusers';

@@ -1,0 +1,1 @@
+export type TDataBaseModel = any;

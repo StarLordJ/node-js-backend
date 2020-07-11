@@ -1,0 +1,10 @@
+export { AuthApiController } from './auth-api.controller';
+export { ImagesApiController } from './images-api.controller';
+export { CapsulesApiController } from './capsules-api.controller';
+export { FaqsApiController } from './faqs-api.controller';
+export { ReviewsApiController } from './reviews-api.controller';
+export { CRMUsersApiController } from './crm-users-api.controller';
+export { OrdersApiController } from './orders-api.controller';
+export { PaymentsApiController } from './payments-api.controller';
+export { ClientsApiController } from './clients-api.controller';
+export { StylistsApiControlller } from './stylists-api.controller';
